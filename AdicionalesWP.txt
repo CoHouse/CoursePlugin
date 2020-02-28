@@ -1,3 +1,12 @@
 Estructuras de WP
 
 https://www.malcare.com/blog/beginners-guide-to-understanding-the-structure-of-a-wordpress-site/
+
+
+-Nombre de la base wp_plugin
+root
+(sin pass)
+
+-panel admin
+admin
+123
