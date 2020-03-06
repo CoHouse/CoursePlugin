@@ -52,6 +52,9 @@ function quizbook_shortcode( $atts ){
         <?php endwhile; wp_reset_postdata(); ?>
       </ul>
     </div>
+
+    <input type="submit" name="" value="enviar" id="quizbook_btn_submit">
+
   </form>
 
   <?php
