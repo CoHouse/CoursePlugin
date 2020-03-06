@@ -1,0 +1,38 @@
+
+#quizbook{
+
+}
+
+#quizbook ul{
+  list-style: none;
+}
+
+#quizbook ul li{
+  padding: 30px;
+}
+
+#quizbook ul li h2{
+  text-align: center;
+  font-size: 1.5em;
+  border-bottom: 2px solid #e1e1e1;
+  padding-bottom: 10px;
+}
+
+#quizbook ul li .respuesta{
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #e1e1e1;
+  margin-bottom: 20px;
+}
+
+#quizbook ul li .respuesta:hover{
+  background-color: cornflowerblue;
+  color: white;
+  cursor: pointer;
+}
+
+#quizbook ul li .respuesta.seleccionada{
+  background-color: cornflowerblue;
+  color: white;
+  cursor: pointer;
+}
